@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\mycombox.o
+./release\mytimer.o
+./release\hex_ascii.o
+./release\mystring.o
+./release\qrc_resource.o
+./release\moc_widget.o
+./release\moc_mycombox.o
+./release\moc_mytimer.o
+);

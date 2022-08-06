@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\mycombox.o
+./debug\mytimer.o
+./debug\hex_ascii.o
+./debug\mystring.o
+./debug\qrc_resource.o
+./debug\moc_widget.o
+./debug\moc_mycombox.o
+./debug\moc_mytimer.o
+);
